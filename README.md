@@ -1,1 +1,1 @@
-# IOT-AI-ML
+An app for Evaluating Muscle Strength and Cordination
